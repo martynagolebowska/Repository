@@ -1,0 +1,1 @@
+Informacja o projekcie, wytyczne jak stosowac, intrukcje itd.
